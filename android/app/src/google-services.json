@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549636753074",
+    "project_id": "dex-app-41bd4",
+    "storage_bucket": "dex-app-41bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549636753074:android:4555367fe4a947469debab",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549636753074-bmck84nr8pel4u4nvdjgjf706orlolha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwvFpmVyZ9YLLW97bJFlH4blLlMPD4fq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549636753074-bmck84nr8pel4u4nvdjgjf706orlolha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
